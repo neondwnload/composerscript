@@ -6,9 +6,9 @@ Voorgeprogrammeerde script om Composer te installeren. (credits: https://getcomp
 Eerst clone je deze respository van Github:
 `git clone https://github.com/neondwnload/composerscript.git`
 
-Daarna navigeer je naar deze repository en voer je de script uit:
+Daarna navigeer je naar deze repository en voer je de script uit:  
 `cd composerscript`  
 `bash compscript.sh`
 
-Voeg PHP Composer toe aan de $PATH om het globaal te kunnen gebruiken:
+Voeg PHP Composer toe aan de $PATH om het globaal te kunnen gebruiken:  
 `mv composer.phar /usr/local/bin/composer`
