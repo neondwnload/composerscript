@@ -9,6 +9,7 @@ Eerst clone je deze respository van Github:
 Daarna navigeer je naar deze repository en voer je de script uit:  
 `cd composerscript`  
 `bash compscript.sh`  
+  
 Indien je geen output ziet na het uitvoeren van de script, is de installatie succesvol verlopen.
 
 Voeg PHP Composer toe aan de $PATH om het globaal te kunnen gebruiken:  
