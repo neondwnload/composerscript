@@ -11,4 +11,4 @@ Daarna navigeer je naar deze repository en voer je de script uit:
 `bash compscript.sh`
 
 Voeg PHP Composer toe aan de $PATH om het globaal te kunnen gebruiken:  
-`mv composer.phar /usr/local/bin/composer`
+`sudo mv composer.phar /usr/local/bin/composer`
