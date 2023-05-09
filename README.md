@@ -3,7 +3,7 @@ Voorgeprogrammeerde script om Composer te installeren. (credits: https://getcomp
 
 ## Downloaden en uitvoeren script op Ubuntu Server 22.04
 
-Eerst clone je deze respository van Github:
+Eerst clone je deze respository van Github:  
 `git clone https://github.com/neondwnload/composerscript.git`
 
 Daarna navigeer je naar deze repository en voer je de script uit:  
